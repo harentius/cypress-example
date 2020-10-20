@@ -1,0 +1,22 @@
+{
+  "name": "cypress-example",
+  "version": "1.0.0",
+  "description": "Cypress Example",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harentius/cypress-example.git"
+  },
+  "author": "Yaroslav Osypenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harentius/cypress-example/issues"
+  },
+  "homepage": "https://github.com/harentius/cypress-example#readme",
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  }
+}
